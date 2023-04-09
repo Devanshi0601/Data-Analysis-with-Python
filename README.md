@@ -1,4 +1,4 @@
-FANDANGO- A BAISED MOVIE RATING WEBSITE
+FANDANGO- A BIASED MOVIE RATING WEBSITE
 
 Overview:
 If one is planning on going out to see a movie, how well can one trust online reviews and ratings? Especially if the same company showing the rating also makes money by selling movie tickets. Do they have a bias towards rating movies higher than they should be rated?
